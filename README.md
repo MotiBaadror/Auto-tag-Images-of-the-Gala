@@ -29,7 +29,7 @@ git push origin master
 
 To do all at once 
 ```
-git pull origin master & git add file1 file2 ... & git commit -m " year message" & git push origin master 
+git pull origin master & git add file1 file2 ... & git commit -m " your message" & git push origin master 
 ```
 
 If you are reading this line means you are pro
