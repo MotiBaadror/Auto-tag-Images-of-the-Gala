@@ -33,3 +33,5 @@ git pull origin master & git add file1 file2 ... & git commit -m " year message"
 ```
 
 If you are reading this line means you are pro
+
+Help for writing readme can be accessed [here](https://makeareadme.com)
