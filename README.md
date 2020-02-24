@@ -5,7 +5,8 @@ These commands will download all the code from remote and set remote origin for 
 git clone https://github.com/MotiBaadror/Auto-tag-Images-of-the-Gala
 git remote add origin https://github.com/MotiBaadror/Auto-tag-Images-of-the-Gala
 ```
-upload your notebook with name {name of notebook}_p{101,102,103,104,...}
+**Pranjal**upload your notebook with name {name of notebook}_p{101,102,103,104,...}
+
 
 Every time before starting your work
 ``` 
