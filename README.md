@@ -1,8 +1,13 @@
 # Welcome To Deep Learning Challenge 
+This repository contains the notebooks related to **Hackerearth Deep Learning Challange **
+
+[The  details of the challenge can be found here](https://www.hackerearth.com/challenges/competitive/hackerearth-deep-learning-challenge-auto-tag-images-gala/machine-learning/auto-tag-images-of-the-gala-9e47fb31/)
+
+
 To set this repo to your local machine 
 These commands will download all the code from remote and set remote origin for your local repo
 
-[The Challenge link can be found here](https://www.hackerearth.com/challenges/competitive/hackerearth-deep-learning-challenge-auto-tag-images-gala/leaderboard/auto-tag-images-of-the-gala-9e47fb31/page/2/)
+
 ``` 
 git clone https://github.com/MotiBaadror/Auto-tag-Images-of-the-Gala
 git remote add origin https://github.com/MotiBaadror/Auto-tag-Images-of-the-Gala
