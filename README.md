@@ -1,5 +1,5 @@
 # Welcome To Deep Learning Challenge 
-This repository contains the notebooks related to **Hackerearth Deep Learning Challange **
+This repository contains the notebooks related to **Hackerearth Deep Learning Challange**
 
 [The  details of the challenge can be found here](https://www.hackerearth.com/challenges/competitive/hackerearth-deep-learning-challenge-auto-tag-images-gala/machine-learning/auto-tag-images-of-the-gala-9e47fb31/)
 
