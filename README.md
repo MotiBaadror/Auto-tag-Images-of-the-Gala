@@ -4,15 +4,9 @@ This repository contains the notebooks related to **Hackerearth Deep Learning Ch
 [The  details of the challenge can be found here](https://www.hackerearth.com/challenges/competitive/hackerearth-deep-learning-challenge-auto-tag-images-gala/machine-learning/auto-tag-images-of-the-gala-9e47fb31/)
 
 
-To set this repo to your local machine 
-<<<<<<< HEAD
-These commands will download all the code from remote and set remote origin for your local repo and install dependencies 
+To set this repo to your local machine. These commands will download all the code from remote and set remote origin for your local repo and install dependencies 
 
-Notebook with 78% accuracy is [Here](a)
-=======
-These commands will download all the code from remote and set remote origin for your local repo
-
->>>>>>> c46e10ffc1e7e23f24d81cd69a306d0dd9206891
+Notebook with 78% accuracy is [Here](https://github.com/MotiBaadror/Auto-tag-Images-of-the-Gala/blob/master/Notebooks_m/model-78%25/Modeling_101%20(1).ipynb)
 
 ``` 
 git clone https://github.com/MotiBaadror/Auto-tag-Images-of-the-Gala
